@@ -35,19 +35,19 @@ p, #footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
+  
 }
 
 #footer a + a {
-    margin-left: 28px;
+  margin-left: 28px;
 }
 
 .line {
-    width: 568px;
-    height: 0;
+  width: 568px;
+  height: 0;
+  margin: auto;
 
-    margin: 0 8px;
-
-    border: 1px solid #ECEFF2;
+  border: 1px solid #ECEFF2;
 }
 
 #balls {
